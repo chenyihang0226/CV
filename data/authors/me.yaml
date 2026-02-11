@@ -2,10 +2,10 @@ schema: "hugoblox/author/v1"
 slug: "me"
 is_owner: true
 name:
-  display: "Eason Chen"
-  given: "Eason"
-  family: "Chen"
-  alternate: ""
+  display: "陈奕航"
+  given: "奕航"
+  family: "陈"
+  alternate: "Eason Chen"
   pronunciation: ""
   pronouns: "he/him"
 postnominals:
